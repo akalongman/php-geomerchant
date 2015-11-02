@@ -31,10 +31,9 @@ class GeoMerchantCartu
 		'PurchaseAmt'=>null,
 		'CountryCode'=>268,
 		'CurrencyCode'=>981,
-		'MerchantName'=>'Brao.ge!www.brao.ge',
-		'MerchantURL'=>'http://www.brao.ge/index.php',
+		'MerchantName'=>'Site.ge!www.site.ge',
+		'MerchantURL'=>'http://www.site.ge/index.php',
 		'MerchantCity'=>'Tbilisi',
-		//'MerchantID'=>'000000008000705-00000001',
 		'MerchantID'=>'000000008000812-00000001',
 		'xDDDSProxy.Language'=>'01',
 		);
